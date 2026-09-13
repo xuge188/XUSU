@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;717bf7bd1b449ce3c30746fa007e6321",
+    "spider": "./spider.jar;md5;fdf14e9c18f4ea6b2099827870d8037d",
     "wallpaper": "https://i0.hdslb.com/bfs/new_dyn/d512eadb60be5cf999b0df5074260ece522628429.jpg@.webp",
     "logo": "https://i0.hdslb.com/bfs/new_dyn/2073335a77a7a694e247c190cc6b8db31083307557.gif",
     "sites": [
@@ -79,14 +79,10 @@
             "filterable": 1
         },
         {
-            "key": "袋鼠",
+            "key": "奇异",
             "name": "🥝奇异┃旭叔",
             "type": 3,
-            "api": "./py/袋鼠.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1
+            "api": "./js/奇异.js"
         },
         {
             "key": "猎手",
@@ -259,7 +255,7 @@
             "timeout": 60
         },
         {
-            "key": "玩偶哥哥",
+            "key": "玩偶",
             "name": "👽玩偶┃旭叔",
             "type": 3,
             "api": "csp_Wogg",
@@ -273,42 +269,6 @@
                     "https://www.wogg.live",
                     "https://wogg.xxooo.cf",
                     "https://woggpan.888484.xyz"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "蜡笔",
-            "name": "💄蜡笔┃旭叔",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "site": [
-                    "http://tvpanpan.site",
-                    "https://www.mmpanpan.site",
-                    "http://feimo.fun"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "至臻",
-            "name": "🎥至臻┃旭叔",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "site": [
-                    "http://mihdr.top",
-                    "https://sp.zzzy.shop",
-                    "http://www.mihdr.top"
                 ]
             },
             "timeout": 60
@@ -333,8 +293,8 @@
             "timeout": 60
         },
         {
-            "key": "二小",
-            "name": "🃏小二┃旭叔",
+            "key": "至臻",
+            "name": "🎥至臻┃旭叔",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -343,10 +303,45 @@
             "changeable": 0,
             "ext": {
                 "site": [
-                    "https://www.wexwp.cc",
-                    "https://wexwp.cc",
-                    "https://www.2xiaopan.one",
-                    "https://www.2xiaopan.top"
+                    "http://mihdr.top",
+                    "https://sp.zzzy.shop",
+                    "http://www.mihdr.top"
+                ]
+            },
+            "timeout": 60
+        },
+        {
+            "key": "蜡笔",
+            "name": "💄蜡笔┃旭叔",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "site": [
+                    "http://tvpanpan.site",
+                    "https://www.mmpanpan.site",
+                    "http://feimo.fun"
+                ]
+            },
+            "timeout": 60
+        },
+        {
+            "key": "小王",
+            "name": "🃏小王┃旭叔",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "site": [
+                    "https://tv.yydsys.top",
+                    "https://tv.yydsys.cc",
+                    "https://tv.214521.xyz"
                 ]
             },
             "timeout": 60
