@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;fdf14e9c18f4ea6b2099827870d8037d",
+    "spider": "./spider.jar;md5;e309ddf20cf1d05c2136d974a45b6b66",
     "wallpaper": "https://i0.hdslb.com/bfs/new_dyn/d512eadb60be5cf999b0df5074260ece522628429.jpg@.webp",
     "logo": "https://i0.hdslb.com/bfs/new_dyn/2073335a77a7a694e247c190cc6b8db31083307557.gif",
     "sites": [
@@ -376,11 +376,14 @@
             "timeout": 60
         },
         {
-            "key": "混合搜",
+            "key": "觅盘",
             "name": "💿聚搜┃旭叔",
             "type": 3,
-            "api": "csp_HunHePan",
+            "api": "csp_MiPan",
             "changeable": 0,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
             "timeout": 60
         },
         {
