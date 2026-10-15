@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;e309ddf20cf1d05c2136d974a45b6b66",
+    "spider": "./spider.jar;md5;076fae341e22c6334518f6c69beedd20",
     "wallpaper": "https://i0.hdslb.com/bfs/new_dyn/d512eadb60be5cf999b0df5074260ece522628429.jpg@.webp",
     "logo": "https://i0.hdslb.com/bfs/new_dyn/2073335a77a7a694e247c190cc6b8db31083307557.gif",
     "sites": [
@@ -253,9 +253,9 @@
             "changeable": 0,
             "ext": {
                 "site": [
+                    "https://www.fmcf.fun",
                     "http://tvpanpan.site",
-                    "https://www.mmpanpan.site",
-                    "http://feimo.fun"
+                    "https://www.mmpanpan.site"
                 ]
             },
             "timeout": 60
@@ -264,17 +264,15 @@
             "key": "小王",
             "name": "🃏小王┃旭叔",
             "type": 3,
-            "api": "csp_PanWebShare",
+            "api": "csp_PanWebShareHJ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
             "ext": {
                 "site": [
-                    "https://www.2xiaozhan.top",
-                    "http://www.2xiaozhan.top",
-                    "https://www.2xiaopan.one",
-                    "http://www.2xiaopan.one"
+                    "https://www.hjzhencai.top",
+                    "https://www.huanjuanwp.shop"
                 ]
             },
             "timeout": 60
