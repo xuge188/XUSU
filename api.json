@@ -34,7 +34,7 @@
         },
         {
             "key": "热播",
-            "name": "☀️热播┃旭叔",
+            "name": "☀️热播┃旭哥",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -45,21 +45,25 @@
             }
         },
         {
-            "key": "荐片",
-            "name": "🏄‍荐片┃旭叔",
-            "api": "csp_JianPian",
-            "type": 3
+            "key": "浪酷",
+            "name": "🏄‍浪酷┃旭哥",
+            "type": 3,
+            "api": "./py/影探.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
         },
         {
             "key": "金牌",
-            "name": "🥇金牌┃旭叔",
+            "name": "🥇金牌┃旭哥",
             "type": 3,
             "api": "csp_Jpys",
             "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
         {
             "key": "苹果",
-            "name": "🍎苹果┃旭叔",
+            "name": "🍎苹果┃旭哥",
             "type": 3,
             "api": "./py/苹果.py",
             "searchable": 1,
@@ -69,7 +73,7 @@
         },
         {
             "key": "瓜子",
-            "name": "🍉瓜子┃旭叔",
+            "name": "🍉瓜子┃旭哥",
             "type": 3,
             "api": "./py/瓜子.py",
             "searchable": 1,
@@ -79,7 +83,7 @@
         },
         {
             "key": "vm",
-            "name": "🍊橘子┃旭叔",
+            "name": "🍊橘子┃旭哥",
             "type": 3,
             "api": "./py/vm.py",
             "searchable": 1,
@@ -88,19 +92,18 @@
             "filterable": 1
         },
         {
-            "key": "猎手",
-            "name": "🦊火狐┃旭叔",
+            "key": "火狐",
+            "name": "🦊火狐┃旭哥",
             "type": 3,
-            "api": "./py/猎手.py",
+            "api": "./py/山楂.py",
             "searchable": 1,
-            "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
+            "changeable": 1,
+            "filterable": 1
         },
         {
             "key": "农民",
-            "name": "👨‍🌾农民┃旭叔",
+            "name": "👨‍🌾农民┃旭哥",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -110,7 +113,7 @@
         },
         {
             "key": "独播库",
-            "name": "🔥独播┃旭叔",
+            "name": "🔥独播┃旭哥",
             "type": 3,
             "api": "csp_Duboku"
         },
