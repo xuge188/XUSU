@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;076fae341e22c6334518f6c69beedd20",
+    "spider": "./spider.jar;md5;24ee29c099868ef5780fcedde9b9949c",
     "wallpaper": "https://i0.hdslb.com/bfs/new_dyn/d512eadb60be5cf999b0df5074260ece522628429.jpg@.webp",
     "logo": "https://i0.hdslb.com/bfs/new_dyn/2073335a77a7a694e247c190cc6b8db31083307557.gif",
     "sites": [
@@ -105,11 +105,8 @@
             "key": "农民",
             "name": "👨‍🌾农民┃旭哥",
             "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/农民.json"
+            "api": "csp_Wwys",
+            "ext": "https://vip.wwgz.cn:5200"
         },
         {
             "key": "独播库",
