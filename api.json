@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;24ee29c099868ef5780fcedde9b9949c",
+    "spider": "./spider.jar;md5;46e76a847597d2a03fecc0e91ca6f574",
     "wallpaper": "https://i0.hdslb.com/bfs/new_dyn/d512eadb60be5cf999b0df5074260ece522628429.jpg@.webp",
     "logo": "https://i0.hdslb.com/bfs/new_dyn/2073335a77a7a694e247c190cc6b8db31083307557.gif",
     "sites": [
@@ -113,6 +113,37 @@
             "name": "🔥独播┃旭哥",
             "type": 3,
             "api": "csp_Duboku"
+        },
+        {
+            "key": "移动",
+            "name": "⛅️移动┃旭哥",
+            "type": 3,
+            "api": "csp_Yidong4K",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "华数",
+            "name": "🎲华数┃旭哥",
+            "type": 3,
+            "api": "./py/华数.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1
+        },
+        {
+            "key": "西瓜",
+            "name": "🍈西瓜┃旭哥",
+            "type": 3,
+            "api": "./py/西瓜.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1
         },
         {
             "key": "123",
